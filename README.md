@@ -22,7 +22,7 @@ Web 3.0 and Decentralized applications.
 
 - 😊 Pronouns: He/him
 
-- 💡 Learning : I am currently enrolled in AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 and also studying software engineering at [ALX Africa] (https://www.alxafrica.com/). I am committed to expanding my knowledge and skills in this field and am grateful for the opportunities these institutions provide.
+- 💡 Learning : I am currently enrolled in AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 and also studying software engineering at [ALX Africa](https://www.alxafrica.com/). I am committed to expanding my knowledge and skills in this field and am grateful for the opportunities these institutions provide.
 
 - 🌱 I’m currently learning JavaScript, C, Reactjs, and Python.
 
